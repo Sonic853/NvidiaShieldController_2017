@@ -8,7 +8,7 @@
 ### BusDog Hex
 Pos  |Value    |Note
 -----|---------|----
-0    |01       |?
+0    |01       |ReportID?
 1    |00-FF    |Button count
 2    |80<br>00<br>01<br>02<br>03<br>04<br>05<br>06<br>07 |No input<br>D-Pad:UP<br>D-Pad:UP+Right<br>D-Pad:Right<br>D-Pad:Right+Down<br>D-Pad:Down<br>D-Pad:Down+Left<br>D-Pad:Left<br>D-Pad:Left+UP
 3    |00<br>01<br>02<br>04<br>08<br>10<br>20<br>40<br>80 |No input<br>A<br>B<br>X<br>Y<br>L1<br>R1<br>Left Stick Btn<br>Right Stick Btn

@@ -1,4 +1,5 @@
 // HID\VID_0955&PID_7214
+// NVIDIA Controller v01.04
 [sonic853@Arch853 ~]$ sudo usbhid-dump --model=0955
 002:007:000:DESCRIPTOR         1582214240.963329
  05 01 09 05 A1 01 85 01 75 01 95 08 81 01 05 01
